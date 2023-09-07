@@ -10,7 +10,7 @@ import ProjectDisplay from "./pages/ProjectDisplay";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
