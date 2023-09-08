@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/urva/static/css/main.6da46d1f.css",
+    "main.css": "/urva/static/css/main.6b98ff50.css",
     "main.js": "/urva/static/js/main.82266037.js",
     "static/js/787.fb771931.chunk.js": "/urva/static/js/787.fb771931.chunk.js",
     "static/media/proj6.png": "/urva/static/media/proj6.bbda91ca7f209247913f.png",
     "static/media/proj5.jpg": "/urva/static/media/proj5.0648813998893b8c53d0.jpg",
     "static/media/proj4.webp": "/urva/static/media/proj4.21aa3100d2e1859f6029.webp",
     "index.html": "/urva/index.html",
-    "main.6da46d1f.css.map": "/urva/static/css/main.6da46d1f.css.map",
+    "main.6b98ff50.css.map": "/urva/static/css/main.6b98ff50.css.map",
     "main.82266037.js.map": "/urva/static/js/main.82266037.js.map",
     "787.fb771931.chunk.js.map": "/urva/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6da46d1f.css",
+    "static/css/main.6b98ff50.css",
     "static/js/main.82266037.js"
   ]
 }
