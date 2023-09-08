@@ -7,7 +7,6 @@
 
 .about {
   width: 100%;
-  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content:center;
@@ -19,7 +18,6 @@
 
 .aboutContent {
   width: 100%;
-  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content:center;
@@ -46,13 +44,13 @@
 }
 
 .about svg {
-  font-size: 60px;
+  font-size: 5vh;
   margin: 5px;
   color: #191970;
 }
 
 .prompt svg {
-  font-size: 60px;
+  font-size: 5vh;
   margin: 5px;
   color: #333333;
 }
@@ -73,7 +71,6 @@
 .skills {
   font-size: 35px;
   width: 100%;
-  height: 85vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -92,8 +89,6 @@
 
 .scrollDown {
   cursor: pointer;
-  position: absolute;
-  bottom: 0;
   margin-bottom: 3vh;
 }
 
