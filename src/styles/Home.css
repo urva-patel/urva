@@ -103,6 +103,7 @@
   margin: 5px;
   color: 3e497a;
   transform: rotate(180deg);
+  height: 5vh;
 }
 
 .list span {
